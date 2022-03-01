@@ -1,0 +1,1 @@
+924ed0d082b0410246063f1af28ec93bd9ff8326e49ce42ac818957f214cb55d  ./target/wasm32-unknown-unknown/release/nft_test.wasm
