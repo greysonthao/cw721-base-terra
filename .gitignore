@@ -13,3 +13,6 @@
 # IDEs
 *.iml
 .idea
+
+# Extra files
+jsonmintexecute.txt
